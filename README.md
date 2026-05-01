@@ -30,8 +30,5 @@ cd matrix-ops-cheatsheet
 python3 -m venv .venv
 source .venv/bin/activate  # Linux/macOS
 
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the application
+# 3. Run the application
 python main.py
