@@ -23,7 +23,7 @@ An interactive command-line cheat sheet for linear algebra fundamentals, impleme
 ## Installation & Usage
 bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/matrix-ops-cheatsheet.git
+git clone https://github.com/theaecktann/matrix-ops-cheatsheet.git
 cd matrix-ops-cheatsheet
 
 # 2. Create and activate a virtual environment
